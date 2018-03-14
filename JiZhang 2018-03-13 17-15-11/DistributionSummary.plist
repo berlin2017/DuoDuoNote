@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JiZhang.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3DD71E9055DC55FF9726C850259B57B9F37C2981</string>
+				<key>dateExpires</key>
+				<string>2019/1/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V9AB3VAK5X.com.vyouqu.duoduoyouji</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V9AB3VAK5X</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V9AB3VAK5X.com.vyouqu.duoduoyouji</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>JiZhang.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>767e4131-4135-44b6-9fc6-def801a36874</string>
+				<key>name</key>
+				<string>多多有记</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V9AB3VAK5X</string>
+				<key>name</key>
+				<string>Beijing Youtui Internet Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
